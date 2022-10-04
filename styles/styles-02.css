@@ -9,8 +9,9 @@
     color: blue;
     font-size: 36px;
 }
-#third/*The third element: in addition to the styles for all odd numbered elements, add a font size of 24px*/
+.third/*The third element: in addition to the styles for all odd numbered elements, add a font size of 24px*/
 {
+    color: purple;
     font-size: 24px;
 }
 #fourth/*The fourth element: a light green background, a font size of 24px, and bold */
